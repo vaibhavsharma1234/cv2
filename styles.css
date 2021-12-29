@@ -1,0 +1,18 @@
+body{
+    background-color: #F5EEDC;
+  }
+  h1{
+      color: seagreen ;
+
+  }
+  h3{
+      color: brown;
+  }
+  hr{
+    background-color: white; /*do it white */
+    border-style: none;
+     border-top-style: dotted ;
+     border-color: grey;
+     border-width: 5Spx;
+    height: 0px; /* this height is for hr background which is zero*/
+    width: 5%;}
